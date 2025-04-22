@@ -1,1 +1,2 @@
 # migrating-app-with-AWS
+In this repository, I demonstrate various pictures working with AWS services. I used AWS to move a web application to the cloud, hosting its files on S3 and demonstrating it through a web browser. I used DynamoDB to create two tables to store questions and answers, set up an API to perform CRUD functions using the API Gateway, and I used Lambda store code for creating and testing CRUD functions.
